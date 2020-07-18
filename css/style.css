@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+}
+
+#display {
+  color: brown;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.text {
+  font-size: 2rem;
+  font-weight: 700;
+}
